@@ -1,5 +1,5 @@
 <div>
-    <h1>User Registration Microservice</h1>
+    <h1>Auth Microservice</h1>
 </div>
 
 ## About The Project
